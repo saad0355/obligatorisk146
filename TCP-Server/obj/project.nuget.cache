@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/M2drbspPjDhnehtGD59bFty4i5Mvec1GvhSrkRBNSsPyZ+h0oD5njWcPpoKqVKX4qEj15//dN0Aq2p+o7RXbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saad1\\OneDrive\\Skrivebord\\3 semester\\Teknologi (netværk)\\FanOutPut\\TCP-Server\\TCP-Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saad1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

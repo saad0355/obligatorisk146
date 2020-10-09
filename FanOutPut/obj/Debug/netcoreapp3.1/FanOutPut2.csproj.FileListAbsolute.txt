@@ -1,0 +1,8 @@
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\bin\Debug\netcoreapp3.1\FanOutPut2.deps.json
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\bin\Debug\netcoreapp3.1\FanOutPut2.dll
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\bin\Debug\netcoreapp3.1\FanOutPut2.pdb
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\obj\Debug\netcoreapp3.1\FanOutPut2.csproj.CoreCompileInputs.cache
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\obj\Debug\netcoreapp3.1\FanOutPut2.AssemblyInfoInputs.cache
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\obj\Debug\netcoreapp3.1\FanOutPut2.AssemblyInfo.cs
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\obj\Debug\netcoreapp3.1\FanOutPut2.dll
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanOutPut\obj\Debug\netcoreapp3.1\FanOutPut2.pdb

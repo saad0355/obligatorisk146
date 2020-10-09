@@ -1,0 +1,13 @@
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\bin\Debug\netcoreapp3.1\FanEchoServer.exe
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\bin\Debug\netcoreapp3.1\FanEchoServer.deps.json
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\bin\Debug\netcoreapp3.1\FanEchoServer.runtimeconfig.json
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\bin\Debug\netcoreapp3.1\FanEchoServer.runtimeconfig.dev.json
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\bin\Debug\netcoreapp3.1\FanEchoServer.dll
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\bin\Debug\netcoreapp3.1\FanEchoServer.pdb
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\obj\Debug\netcoreapp3.1\FanEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\obj\Debug\netcoreapp3.1\FanEchoServer.AssemblyInfoInputs.cache
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\obj\Debug\netcoreapp3.1\FanEchoServer.AssemblyInfo.cs
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\obj\Debug\netcoreapp3.1\FanEchoServer.dll
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\obj\Debug\netcoreapp3.1\FanEchoServer.pdb
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\obj\Debug\netcoreapp3.1\FanEchoServer.genruntimeconfig.cache
+C:\Users\saad1\OneDrive\Skrivebord\3 semester\Teknologi (netværk)\FanOutPut\FanEchoServer\obj\Debug\netcoreapp3.1\FanEchoServer.csprojAssemblyReference.cache
